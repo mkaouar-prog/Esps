@@ -1,0 +1,4 @@
+C:\Users\ASUS\source\repos\esps\obj\Debug\net8.0\esps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\esps\obj\Debug\net8.0\esps.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\esps\obj\Debug\net8.0\esps.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\esps\obj\Debug\net8.0\esps.csproj.CoreCompileInputs.cache
